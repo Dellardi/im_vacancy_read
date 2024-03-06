@@ -1,7 +1,7 @@
 # Vacancy reader
 
 Чтобы клонировать репозиторий скачайте git, перейдите в необходимую директорию, вставбте в консоль
-<code>python answer_4.py</code>
+<code>git clone https://github.com/Dellardi/im_vacancy_read.git</code>
 
 ## Answer 3
 Поиск вакансии по файлу vacancy.csv
