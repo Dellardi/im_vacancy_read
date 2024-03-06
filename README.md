@@ -7,10 +7,10 @@
 Поиск вакансии по файлу vacancy.csv
 <br>Для запуска нужен файл vacancy с расширением .csv и этот файл должен лежать в одной папке с исполняемым файлом
 <br>Перейдите в директорию где лежит исполняемый файл и vacancy.csv
-<br>Команда: <code>python answer_3.py</code>
+<br>Команда для Windows 10: <code>python answer_3.py</code>
 
 ## Answer 4
 Средняя зарплата по компании из файла vacancy.csv
 <br>Для запуска нужен файл vacancy с расширением .csv и этот файл должен лежать в одной папке с исполняемым файлом
 <br>Перейдите в директорию где лежит исполняемый файл и vacancy.csv
-<br>Команда: <code>python answer_4.py</code>
+<br>Команда для Windows 10: <code>python answer_4.py</code>
